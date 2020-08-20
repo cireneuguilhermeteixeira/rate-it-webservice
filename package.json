@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken":"^0.2",
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "connect": "^3.6.6",
     "consign": "^0.1.6",
